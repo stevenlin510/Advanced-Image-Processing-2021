@@ -2,6 +2,15 @@
 
 - This code is for implementation of the assignments in **AIP** class in NTNU. There are 6 assignments and each assignment needs to create a execution file (for Windows).
 
+
+## Installation
+
+```shell
+conda create -n aip python=3.7
+conda activate aip
+pip install -r requirements.txt
+```
+
 ## Assignment I 
 - Read an image and output an image.
 <tr>
